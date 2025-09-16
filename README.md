@@ -31,17 +31,13 @@
 ⚡ Prefiro lógica elegante, sistemas robustos e **projetos que desafiem limites**.  
 🎨 Estilo visual preto e vermelho, inspirado no **Homem-Aranha Escarlate**.  
 
-<p align="center">
-  <img src="https://media.tenor.com/YOUR-SCARLET-SPIDER-GIF.gif" width="651"/>
-</p>
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCastro&show_icons=true&theme=radical&hide_border=true&icon_color=E23636" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCastro&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus089107&show_icons=true&theme=radical&hide_border=true&icon_color=E23636" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus089107&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
