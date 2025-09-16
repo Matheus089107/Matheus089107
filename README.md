@@ -1,9 +1,9 @@
 <!-- Banner Scarlet Spider -->
 <p align="center">
-  <img src="https://media.tenor.com/YOUR-SCARLET-SPIDER-BANNER.gif" width="600"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY-5cx7Qzq04nD4WO_VaEt1KXwkzCNpkT9PoBiOjbPEP4LF6IjjHvuZuNkd6e_BF02GftlTRqzn6VbCA4DC91eaW0QfNyXz5SBfRbm-vgrUl0YLnezH-Db5WZPKCRlBXtJa0NSlA6Qw-A/s1600/tumblr_n9a419GORp1rkaoj2o6_r2_500.gif" width="600"/>
 </p>
 
-<h1 align="center">🕷️🔥 Bem-vindo ao Aranhaverso do <b>MatheusCastro</b> 🕸️</h1>
+<h1 align="center">🕷️🔥 Bem-vindo a melhor conta do git feita por <b>Castro</b> 🕸️</h1>
 
 <p align="center">
   <i>"Entre sombras e linhas de código, eu balanço nas teias do desenvolvimento!"</i>
@@ -12,7 +12,7 @@
 ---
 
 ## 🕷️ Sobre mim
-👨‍💻 Programador apaixonado por **Java, SQL e JavaScript**.  
+👨‍💻 Programador apaixonado por **Java**.  
 ⚡ Explorador de sistemas e automação.  
 🕸️ Inspiração: **Spider-Man Scarlet**, ágil, sombrio e cheio de atitude.  
 
@@ -21,7 +21,7 @@
 ## 🕸️ Skills de Programação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,git,github,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,git,github,python,vscode,figma,c,cpp,bash" />
 </p>
 
 ---
@@ -49,15 +49,14 @@
 ## 🕷️ Projetos em destaque
 ☕ **Sistemas Java** (CRUD, JDBC, Maven).  
 🌐 **Web apps** em HTML, CSS e JavaScript.  
-🔌 **Automação e IoT** (opcional).  
-💀 Projetos com **tema sombrio / visual Escarlate**.  
+🔌 **Automação e IoT** (python e C).  
 
 ---
 
 ## 🕸️ Onde me encontrar?
 <p align="center">
   <a href="https://github.com/Matheus089107">
-    <img src="https://img.shields.io/badge/GitHub-MatheusCastro-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Matheus089107?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Email-matheusalexandrecastro122@gmail.com-red?style=for-the-badge&logo=gmail" />
@@ -68,7 +67,7 @@
 
 <!-- Gif final Scarlet Spider -->
 <p align="center">
-  <img src="https://media.tenor.com/YOUR-SCARLET-SPIDER-FINAL-GIF.gif" width="350"/>
+  <img src="https://static.wikia.nocookie.net/spiderman/images/7/72/Kaine_poderes.png/revision/latest?cb=20140807004714&path-prefix=es" width="350"/>
 </p>
 
 <p align="center">
