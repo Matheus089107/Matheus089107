@@ -21,7 +21,7 @@
 ## 🕸️ Skills de Programação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,git,github,python,vscode,figma,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,git,github,python,vscode,figma,c,cpp,bash,git,arduino,eclipse,windows" />
 </p>
 
 ---
